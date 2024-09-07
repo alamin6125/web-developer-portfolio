@@ -1,0 +1,55 @@
+/* nav relatad styles */
+nav{
+    display: flex;
+}
+
+
+.text-primary{
+  color: rgb(16, 237, 97);  
+}
+
+.btn-primary{
+    border-radius: 5px;
+    background-color:rgb(16, 237, 97); 
+    border: 0;
+    color: white;
+    font-size: 24px;
+    font-weight: 700px;
+    padding: 15px 35px ;
+}
+
+/* nav relatad styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+nav{
+color: rgb(237, 137, 6);
+font-size: 45px;
+font-weight: 800;
+}
+
+nav> ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    color:black;
+}
